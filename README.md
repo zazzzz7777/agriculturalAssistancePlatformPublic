@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV1F8rrYfE8M/](https://www.bilibili.com/video/BV1F8rrYfE8M/)**
 
 **毕业设计所有选题地址：
-[https://github.com/giteecode/allProject](https://github.com/zazzzz7777/allProject)**
+[https://github.com/giteecode/allProject](https://github.com/zazzzz7777/allProject)** 
 
 ## 基于Java+Springboot+vue3的助农平台系统(源代码+数据库)209
 
