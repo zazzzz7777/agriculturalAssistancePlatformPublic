@@ -6,14 +6,9 @@
 
 ### 选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt
 
-**博客地址：
-[https://blog.csdn.net/2303_76227485/article/details/145038330](https://blog.csdn.net/2303_76227485/article/details/145038330)**
-
 **视频演示：
 [https://www.bilibili.com/video/BV1F8rrYfE8M/](https://www.bilibili.com/video/BV1F8rrYfE8M/)**
 
-**毕业设计所有选题地址：
-[https://github.com/giteecode/allProject](https://github.com/zazzzz7777/allProject)** 
 
 ## 基于Java+Springboot+vue3的助农平台系统(源代码+数据库)209
 
