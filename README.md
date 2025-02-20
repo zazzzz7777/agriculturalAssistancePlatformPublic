@@ -1,6 +1,6 @@
 ## 本项目完整源码是收费的  接毕业设计和论文
 
-### 作者微信：grapro666 QQ：3642795578 (支持部署调试、支持代做毕设)
+### 作者微信：ZAZ27777 QQ：2801106959 (支持部署调试、支持代做毕设)
 
 ### 接javaweb、python、小程序、H5、APP、各种管理系统、单片机、嵌入式等开发
 
@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV1F8rrYfE8M/](https://www.bilibili.com/video/BV1F8rrYfE8M/)**
 
 **毕业设计所有选题地址：
-[https://github.com/giteecode/allProject](https://github.com/giteecode/allProject)**
+[https://github.com/giteecode/allProject](https://github.com/zazzzz7777/allProject)**
 
 ## 基于Java+Springboot+vue3的助农平台系统(源代码+数据库)209
 
